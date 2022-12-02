@@ -8,17 +8,9 @@ scenarios = {"X": 2, "Y": 3,"Z": 1}
 
 your_choices = ["A", "B", "C"]
 
-score1 = {
-	"A": 1,
-	"B": 2,
-	"C": 3,
-}
+score1 = {"A": 1,"B": 2,"C": 3,}
 
-score2 = {
-	"X": 0,
-	"Y": 3,
-	"Z": 6
-}
+score2 = {"X": 0,"Y": 3,"Z": 6}
 
 score = 0
 for r in rounds:
